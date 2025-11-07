@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=reza21&show_icons=true"> 
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=reza21&show_icons=true">  -->
 
 - 🔭 I’m currently working on UIN K.H. Abdurrahman Wahid as Lecturer
 - 🌱 I’m currently programming on web and mobile apps development, also machine learning 
