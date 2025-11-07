@@ -2,8 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=reza21&show_icons=true"> 
 
-- 🔭 I’m currently working on STMIK Widya Pratama as Lecturer
-- 🌱 I’m currently learning mobile apps development, machine learning 
+- 🔭 I’m currently working on UIN K.H. Abdurrahman Wahid as Lecturer
+- 🌱 I’m currently programming on web and mobile apps development, also machine learning 
 
 <!--
 **reza21/reza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
